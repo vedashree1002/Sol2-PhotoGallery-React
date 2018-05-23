@@ -21,7 +21,6 @@ const images = [
 ];
 
 
-
 // Component for PhotoGallery
 export default class PhotoGallery extends React.Component{
  constructor(props) {
